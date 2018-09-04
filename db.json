@@ -10,7 +10,8 @@
               {"type": "A"},
               {"type": "WF"},
               {"type": "LS"}
-            ]
+            ],
+            "seats": 100
           },
           {
             "screen_num": 2,
@@ -19,7 +20,8 @@
               {"type": "A"},
               {"type": "WF"},
               {"type": "LS"}
-            ]
+            ],
+            "seats": 100
           },
           {
             "screen_num": 3,
@@ -28,7 +30,8 @@
               {"type": "A"},
               {"type": "WF"},
               {"type": "LS"}
-            ]
+            ],
+            "seats": 80
           },
           {
             "screen_num": 4,
@@ -37,7 +40,8 @@
               {"type": "A"},
               {"type": "WF"},
               {"type": "LS"}
-            ]
+            ],
+            "seats": 100
           },
           {
             "screen_num": 5,
@@ -46,7 +50,8 @@
               {"type": "A"},
               {"type": "WF"},
               {"type": "LS"}
-            ]
+            ],
+            "seats": 60
           },
           {
             "screen_num": 6,
@@ -58,8 +63,7 @@
             ],
             "seats": 100
           }
-        ]
-        
+        ]        
       },
       { "id":2, 
         "name":"4DX",
@@ -71,7 +75,8 @@
               {"type": "A"},
               {"type": "WF"},
               {"type": "LS"}
-            ]
+            ],
+            "seats": 100
           },
           {
             "screen_num": 2,
@@ -80,7 +85,8 @@
               {"type": "A"},
               {"type": "WF"},
               {"type": "LS"}
-            ]
+            ],
+            "seats": 100
           },
           {
             "screen_num": 3,
@@ -89,7 +95,8 @@
               {"type": "A"},
               {"type": "WF"},
               {"type": "LS"}
-            ]
+            ],
+            "seats": 80
           },
           {
             "screen_num": 4,
@@ -98,7 +105,8 @@
               {"type": "A"},
               {"type": "WF"},
               {"type": "LS"}
-            ]
+            ],
+            "seats": 100
           },
           {
             "screen_num": 5,
@@ -107,7 +115,8 @@
               {"type": "A"},
               {"type": "WF"},
               {"type": "LS"}
-            ]
+            ],
+            "seats": 60
           },
           {
             "screen_num": 6,
@@ -119,7 +128,7 @@
             ],
             "seats": 100
           }
-        ]
+        ]        
       },
       { "id":3, 
         "name":"IMax",
@@ -131,7 +140,8 @@
               {"type": "A"},
               {"type": "WF"},
               {"type": "LS"}
-            ]
+            ],
+            "seats": 100
           },
           {
             "screen_num": 2,
@@ -140,7 +150,8 @@
               {"type": "A"},
               {"type": "WF"},
               {"type": "LS"}
-            ]
+            ],
+            "seats": 100
           },
           {
             "screen_num": 3,
@@ -149,7 +160,8 @@
               {"type": "A"},
               {"type": "WF"},
               {"type": "LS"}
-            ]
+            ],
+            "seats": 80
           },
           {
             "screen_num": 4,
@@ -158,7 +170,8 @@
               {"type": "A"},
               {"type": "WF"},
               {"type": "LS"}
-            ]
+            ],
+            "seats": 100
           },
           {
             "screen_num": 5,
@@ -167,7 +180,8 @@
               {"type": "A"},
               {"type": "WF"},
               {"type": "LS"}
-            ]
+            ],
+            "seats": 60
           },
           {
             "screen_num": 6,
